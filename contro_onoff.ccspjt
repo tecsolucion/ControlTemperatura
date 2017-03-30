@@ -1,0 +1,22 @@
+[PROJECT]
+Target=contro_onoff.hex
+Processor_Text=PIC16F887
+CCSVerions=5.015
+Compiler=PCM
+CCSVersion=5.015
+[Target Data]
+FileList=contro_onoff.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[C:\Users\Usuario\Documents\GitHub\ControlTemperatura\contro_onoff]
+Type=4
+[mru-list]
+1=contro_onoff.c
+[Opened Files]
+1=contro_onoff.c
+2=
+[contro_onoff.c]
+Type=4
+[Units]
+Count=1
+1=contro_onoff (main)
